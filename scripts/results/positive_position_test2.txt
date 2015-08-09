@@ -1,0 +1,7 @@
+>shuffled	1	5
+>shuffled	10	19
+>shuffled	21	29
+>shuffled	35	45
+>shuffled1	55	75
+>shuffled2	85	95
+>shuffled	120	200
