@@ -70,5 +70,5 @@ Please do not hesitate to contact us.
 
 Contact us
 -----------
-   * Email: zxfan068@gmail.com (Zhenxin Fan)   jzuoyi@126.com (Zuoyi Jian)
+   * Email: zxfan@scu.edu.cn (Zhenxin Fan)   jianzuoyi@qq.com (Zuoyi Jian)
 
