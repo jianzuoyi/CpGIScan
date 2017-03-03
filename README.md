@@ -3,6 +3,7 @@ What is CpGIScan?
 CpGIScan, an ultrafast tool for CpG islands identification from genome sequences. 
 It uses C++, and works on Linux, OS X and Windows. 
 
+**Please cite**: Jian, Z, Du, L, Zhang, X, Yue, B and Fan, Z (2016). CpGIScan : An Ultrafast Tool for CpG Islands Identification from Genome Sequence. Curr. Bioinform. 11: 1–4.
 
 Download CpGIScan
 ------------------
